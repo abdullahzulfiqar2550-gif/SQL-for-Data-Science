@@ -1,10 +1,10 @@
-SQL for Data Science
-
+ ## SQL for Data Science
+#####
 Mastering SQL is one of the most valuable investments for anyone pursuing a career in Data Science, Machine Learning, Artificial Intelligence, Data Analytics, or Data Engineering. While Python is used to build models, SQL is the language that professionals use every day to retrieve, transform, clean, and analyze data from databases.
 
 This repository is my Learn SQL by Building journey, where every concept is documented through practical .sql files instead of theory alone. Each module focuses on solving real-world database problems, helping learners build strong SQL fundamentals required in technical interviews and industry projects.
-
-📌 What You'll Learn
+####
+## 📌 What You'll Learn
 SQL Fundamentals and Query Writing
 Database & Table Creation
 Data Types and Constraints
@@ -21,7 +21,8 @@ Access Control (GRANT & REVOKE)
 Password Management
 Intermediate & Advanced SQL Queries
 Real-world Practice Datasets
-📂 Repository Structure
+
+## 📂 Repository Structure
 1) Basic SQL
 2) Basic SQL (Part 2)
 3) GROUP_CONCAT
@@ -38,7 +39,7 @@ Real-world Practice Datasets
 14) Employee Database Practice
 📊 Practice Datasets
 
-This repository includes multiple datasets for hands-on SQL practice.
+## This repository includes multiple datasets for hands-on SQL practice.
 
 Employee Dataset
 Course Dataset
@@ -48,7 +49,7 @@ States Dataset
 
 These datasets are used throughout the repository to simulate real-world database scenarios commonly encountered in Data Science and Analytics.
 
-🎯 Why This Repository?
+## 🎯 Why This Repository?
 
 This repository is designed for:
 
@@ -62,7 +63,7 @@ Anyone looking to strengthen database fundamentals
 
 Instead of memorizing SQL syntax, the focus is on learning by building and practicing.
 
-🚀 Learning Roadmap
+## 🚀 Learning Roadmap
 
 ✔ SQL Basics
 ✔ Constraints & Table Design
@@ -81,7 +82,7 @@ Instead of memorizing SQL syntax, the focus is on learning by building and pract
 ⬜ Common Table Expressions (CTEs) (Coming Soon)
 ⬜ Indexing & Query Optimization (Coming Soon)
 
-💡 Repository Goal
+## 💡 Repository Goal
 
 The objective of this repository is to build a strong SQL foundation that directly supports careers in Machine Learning, Data Science, Artificial Intelligence, and Data Analytics. Every SQL file represents practical learning with reusable examples that can be applied to real-world datasets and projects.
 
